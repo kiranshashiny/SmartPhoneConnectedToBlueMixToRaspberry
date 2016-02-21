@@ -31,12 +31,15 @@ Here are some interesting links and a sample snapshot of the Evothings workbench
 <img src="https://cloud.githubusercontent.com/assets/14288989/13202267/96607cc6-d8ba-11e5-93bf-d5fdc8eaae1a.png" width ="400">
 
 
-and lastly my application running on the Smartphone.
+and lastly my application running on the Smartphone. <br>
 <img src="https://cloud.githubusercontent.com/assets/14288989/13202336/1d042956-d8bd-11e5-9496-21b592d9fd7e.png" width ="400">
 
-To recreate this environemnt: Install the Evothings workbench and drag and drop the index.html into the "My Apps" section of Evothings IDE.
+To recreate this environment: Install the Evothings workbench and drag and drop the index.html into the "My Apps" section of Evothings IDE.
 Install the Evothings App on your handheld device like an Android or an iOS, Connect and click on 'Run'. This automatically will load the code into the Smartphone and install the application.
 
-One can modify the Connect, and or add new sections to suit their needs.
+One can modify the Connect, disconnect, On, Off, forward, Backward and other methods, and or add new sections to suit their needs.
 
-The hardware is the Raspberry pi that are connected are a) LED b) DC motors:
+The hardware in this Raspberry pi project that are demostrated were a) LED b) DC motors:
+
+<img src="https://cloud.githubusercontent.com/assets/14288989/13202397/0367bfa6-d8bf-11e5-83da-44a8976e36aa.png" width ="400">
+<img src="https://cloud.githubusercontent.com/assets/14288989/13202396/0364eb50-d8bf-11e5-8060-db3cb40ff3c7.png" width ="400">
