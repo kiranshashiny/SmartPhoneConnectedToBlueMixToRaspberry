@@ -20,8 +20,7 @@ First, some background to my account in IBM Bluemix:
 - Added my Raspberry pi device to it and set it the IoTFoundation to listen to commands being published by Applications, and devices.
 
 <img src="https://cloud.githubusercontent.com/assets/14288989/13202270/966552dc-d8ba-11e5-9809-8b92020a77a1.png" width ="400">
-<img src=" " width ="400">
-
+<br>
 
 Evothings: is a IDE for development of Mobile Apps for Android and iOS, and in this blog I have an Android developed.
 Here are some interesting links and a sample snapshot of the Evothings workbench.
@@ -43,3 +42,4 @@ The hardware in this Raspberry pi project that are demostrated were a) LED b) DC
 
 <img src="https://cloud.githubusercontent.com/assets/14288989/13202397/0367bfa6-d8bf-11e5-83da-44a8976e36aa.png" width ="400">
 <img src="https://cloud.githubusercontent.com/assets/14288989/13202396/0364eb50-d8bf-11e5-8060-db3cb40ff3c7.png" width ="400">
+
