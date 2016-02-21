@@ -1,4 +1,4 @@
-# SmartPhoneConnectedToBlueMixToRaspberry
+# SmartPhone App communicating to IBM BlueMix using MQTT, and sending to devices like Raspberry Pi
 
 This project was about connecting the Smartphone to IBM Bluemix thru MQTT and connecting to Raspberry Pi at the other end.
 
