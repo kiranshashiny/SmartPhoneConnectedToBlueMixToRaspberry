@@ -1,4 +1,5 @@
 # SmartPhone App communicating to IBM BlueMix using MQTT, and sending to devices like Raspberry Pi
+# and controlling a DC geared motor, and a LED remotely.
 
 This project was about connecting the Smartphone to IBM Bluemix thru MQTT and connecting to Raspberry Pi at the other end.
 
