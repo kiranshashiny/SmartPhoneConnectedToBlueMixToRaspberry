@@ -20,15 +20,28 @@ First, some background to my account in IBM Bluemix:
 - Added my Raspberry pi device to it and set it the IoTFoundation to listen to commands being published by Applications, and devices.
 
 <img src="https://cloud.githubusercontent.com/assets/14288989/13202270/966552dc-d8ba-11e5-9809-8b92020a77a1.png" width ="400">
-<img src=" " width ="200">
+<img src=" " width ="400">
 
 
 Evothings: is a IDE for development of Mobile Apps for Android and iOS, and in this blog I have an Android developed.
 Here are some interesting links and a sample snapshot of the Evothings workbench.
 
-<img src="https://cloud.githubusercontent.com/assets/14288989/13202278/df960f50-d8ba-11e5-9d25-0b72f2c212e2.png" height ="400" width ="400">
+<img src="https://cloud.githubusercontent.com/assets/14288989/13202278/df960f50-d8ba-11e5-9d25-0b72f2c212e2.png" height ="200" width ="800">
 <img src="https://cloud.githubusercontent.com/assets/14288989/13202269/966111d6-d8ba-11e5-80ac-e617f3bf2850.png" width ="400">
 <img src="https://cloud.githubusercontent.com/assets/14288989/13202267/96607cc6-d8ba-11e5-93bf-d5fdc8eaae1a.png" width ="400">
+
+
+and lastly my application running on the Smartphone.
+<img src="https://github.com/kiranshashiny/SmartPhoneConnectedToBlueMixToRaspberry/files/139581/controlling_hardware.pdf" width ="400">
+
+To recreate this environemnt: Install the Evothings workbench and drag and drop the index.html into the "My Apps" section of Evothings IDE.
+Install the Evothings App on your handheld device like an Android or an iOS, Connect and click on 'Run'. This automatically will load the code into the Smartphone and install the application.
+
+One can modify the Connect, and or add new sections to suit their needs.
+
+The hardware is the Raspberry pi, 
+
+
 
 
 
