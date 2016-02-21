@@ -1,6 +1,6 @@
-# SmartPhone App communicating to IBM BlueMix using MQTT, and sending to devices like Raspberry Pi and controlling a DC geared motor, and a LED remotely.
+# SmartPhone App publishing to IBM BlueMix using MQTT. Raspberry Pi Microcontroller at the other end subscribing to these commands from IBM Bluemix MQTT Broker and controlling a DC geared motor, and a LED.
 
-This project was about connecting the Smartphone to IBM Bluemix thru MQTT and connecting to Raspberry Pi at the other end.
+This project is about connecting the Smartphone application to IBM Bluemix thru MQTT and connecting to Raspberry Pi at the other end.
 In this project I have a LED, and a DC motor connected to the Raspberry Pi and can be controlled by the SmartPhone App.
 
 Here I have used a IDE from Evothings http://evothings.com/ - which has developed the Workbench to create Apps for SmartPhone, 
@@ -14,11 +14,21 @@ The Raspberry Pi I have is a Model B, is the device that I have configured on th
 First, some background to my account in IBM Bluemix:
 - I have created an account in IBM Bluemix.
 - Created an application using the default IoT Boilerplate. 
-- Added a service called "Internet of Things platform" 
 
-https://cloud.githubusercontent.com/assets/14288989/13202146/66075b4e-d8b5-11e5-9730-95bfa982e7ad.png
-
-![Alt text](https://cloud.githubusercontent.com/assets/14288989/13202146/66075b4e-d8b5-11e5-9730-95bfa982e7ad.png?raw=true "Application in IBM Bluemix" width="48")
-<img src="https://cloud.githubusercontent.com/assets/14288989/13202146/66075b4e-d8b5-11e5-9730-95bfa982e7ad.png" width="48">
-<img src="https://cloud.githubusercontent.com/assets/14288989/13202146/66075b4e-d8b5-11e5-9730-95bfa982e7ad.png" width="100">
 <img src="https://cloud.githubusercontent.com/assets/14288989/13202146/66075b4e-d8b5-11e5-9730-95bfa982e7ad.png" width="200">
+- Added a service called "IBM Watson IoT platform" 
+- Added my Raspberry pi device to it and set it the IoTFoundation to listen to commands being published by Applicaitons, and devices.
+
+<img src="https://cloud.githubusercontent.com/assets/14288989/13202270/966552dc-d8ba-11e5-9809-8b92020a77a1.png" width ="200">
+<img src=" " width ="200">
+
+
+Evothings: is a IDE for development of Mobile Apps for Android and iOS, and in this blog I have an Android developed.
+Here are some interesting links and a sample snapshot of the Evothings workbench.
+
+<img src="https://cloud.githubusercontent.com/assets/14288989/13202278/df960f50-d8ba-11e5-9d25-0b72f2c212e2.png" width ="200">
+<img src="https://cloud.githubusercontent.com/assets/14288989/13202269/966111d6-d8ba-11e5-80ac-e617f3bf2850.png" width ="200">
+<img src="https://cloud.githubusercontent.com/assets/14288989/13202267/96607cc6-d8ba-11e5-93bf-d5fdc8eaae1a.png" width ="200">
+
+
+
