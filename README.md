@@ -19,4 +19,4 @@ First, some background to my account in IBM Bluemix:
 https://cloud.githubusercontent.com/assets/14288989/13202146/66075b4e-d8b5-11e5-9730-95bfa982e7ad.png
 
 ![Alt text](https://cloud.githubusercontent.com/assets/14288989/13202146/66075b4e-d8b5-11e5-9730-95bfa982e7ad.png?raw=true "Application in IBM Bluemix" width="48")
-<img src="https://cloud.githubusercontent.com/assets/14288989/13202146/66075b4e-d8b5-11e5-9730-95bfa982e7ad.png" width="48"
+<img src="https://cloud.githubusercontent.com/assets/14288989/13202146/66075b4e-d8b5-11e5-9730-95bfa982e7ad.png" width="48">
